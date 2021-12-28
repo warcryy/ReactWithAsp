@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/warcryy/ReactWithAsp/static/css/main.1a441e4c.chunk.css",
+    "main.js": "/warcryy/ReactWithAsp/static/js/main.a59f4549.chunk.js",
+    "main.js.map": "/warcryy/ReactWithAsp/static/js/main.a59f4549.chunk.js.map",
+    "runtime-main.js": "/warcryy/ReactWithAsp/static/js/runtime-main.e5d2bb56.js",
+    "runtime-main.js.map": "/warcryy/ReactWithAsp/static/js/runtime-main.e5d2bb56.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/warcryy/ReactWithAsp/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.33cea853.chunk.js": "/warcryy/ReactWithAsp/static/js/2.33cea853.chunk.js",
+    "static/js/2.33cea853.chunk.js.map": "/warcryy/ReactWithAsp/static/js/2.33cea853.chunk.js.map",
+    "index.html": "/warcryy/ReactWithAsp/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/warcryy/ReactWithAsp/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.1a441e4c.chunk.css.map": "/warcryy/ReactWithAsp/static/css/main.1a441e4c.chunk.css.map",
+    "static/js/2.33cea853.chunk.js.LICENSE.txt": "/warcryy/ReactWithAsp/static/js/2.33cea853.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d2bb56.js",
+    "static/css/2.d5e620ed.chunk.css",
+    "static/js/2.33cea853.chunk.js",
+    "static/css/main.1a441e4c.chunk.css",
+    "static/js/main.a59f4549.chunk.js"
+  ]
+}
